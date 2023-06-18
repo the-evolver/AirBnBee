@@ -1,6 +1,8 @@
 # Full Stack Airbnb Clone with Next.js 13 App
 
-This repository contains a Full Stack Airbnb Clone with Next.js 13 App. The project is developed by Atul Kumar and the project's website can be found at [https://the-evolver.github.io/](https://the-evolver.github.io/). The purpose of this project is for personal learning.
+This repository contains a Full Stack Airbnb Clone with Next.js 13 App. The project is developed by Atul Kumar and the project's website can be found below . The purpose of this project is for personal learning.
+
+Website : https://atul-bnb-bee.vercel.app/
 
 ## Features
 
@@ -38,7 +40,7 @@ To run this project locally, please follow the instructions below:
 Clone the repository to your local machine:
 
 ```
-git clone [link of this repository]
+git clone https://github.com/the-evolver/AirBnBee
 ```
 
 ### Install packages
