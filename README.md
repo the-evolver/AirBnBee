@@ -7,20 +7,16 @@ Website : https://atul-bnb-bee.vercel.app/
 
 AirBnBee is an innovative and buzzing project that aims to provide a unique and delightful accommodation experience for travelers. Inspired by the vibrant world of bees, AirBnBee offers a platform where hosts can showcase their properties, and guests can find their perfect hive away from home.
 
-Key Features:
-
-Beeautiful User Interface: The project boasts a visually appealing and intuitive user interface, designed to create a seamless browsing experience for both hosts and guests.
-Honeycomb Authentication: AirBnBee incorporates a secure authentication system, allowing users to register, log in, and manage their profiles with ease.
-Buzzworthy Listings: Hosts can create and manage their property listings, providing detailed information about the accommodations, amenities, and pricing.
-Search Pollenation: The project includes an advanced search functionality, empowering guests to discover their ideal hive based on location, dates, guest capacity, and other preferences.
-Nectar of Bookings: Guests can explore the available properties, view property details, and make bookings effortlessly, ensuring a seamless and secure transaction process.
-Hive Messaging: AirBnBee facilitates smooth communication between hosts and guests, enabling them to exchange messages, clarify details, and make arrangements conveniently.
-Hive Reviews: Guests can provide feedback and leave reviews about their stay, promoting transparency and assisting future travelers in making informed decisions.
-Beeutiful Maps: The project integrates interactive maps to provide users with a visual representation of property locations, making it easier to choose the perfect hive.
-
-By leveraging technologies such as React, Next.js, Tailwind CSS, Prisma, MongoDB, and NextAuth, AirBnBee aims to create a buzzing and immersive experience for all users, ensuring a memorable and sweet journey in the world of accommodations.
-
 ## Features
+
+- Beeautiful User Interface: The project boasts a visually appealing and intuitive user interface, designed to create a seamless browsing experience for both hosts and guests.
+- Honeycomb Authentication: AirBnBee incorporates a secure authentication system, allowing users to register, log in, and manage their profiles with ease.
+- Buzzworthy Listings: Hosts can create and manage their property listings, providing detailed information about the accommodations, amenities, and pricing.
+- Search Pollenation: The project includes an advanced search functionality, empowering guests to discover their ideal hive based on location, dates, guest capacity, and other preferences.
+- Nectar of Bookings: Guests can explore the available properties, view property details, and make bookings effortlessly, ensuring a seamless and secure transaction process.
+- Hive Messaging: AirBnBee facilitates smooth communication between hosts and guests, enabling them to exchange messages, clarify details, and make arrangements conveniently.
+- Hive Reviews: Guests can provide feedback and leave reviews about their stay, promoting transparency and assisting future travelers in making informed decisions.
+- Beeutiful Maps: The project integrates interactive maps to provide users with a visual representation of property locations, making it easier to choose the perfect hive.
 
 - Tailwind design for a modern and visually appealing UI
 - Tailwind animations and effects to enhance user experience
@@ -45,7 +41,9 @@ By leveraging technologies such as React, Next.js, Tailwind CSS, Prisma, MongoDB
 - POST and DELETE route handling in route handlers (app/api)
 - Fetching data in server-side React components by directly accessing the database (WITHOUT API)
 - Handling files like error.tsx and loading.tsx, which are new Next 13 templating files for unified loading and error handling
-- Handling relations between server and child components
+- Handling relations between server and child components.
+
+By leveraging technologies such as React, Next.js, Tailwind CSS, Prisma, MongoDB, and NextAuth, AirBnBee aims to create a buzzing and immersive experience for all users, ensuring a memorable and sweet journey in the world of accommodations.
 
 ## Installation
 
