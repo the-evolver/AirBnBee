@@ -4,6 +4,7 @@
 This repository contains a Full Stack Airbnb Clone with Next.js 13 App. The project is developed by Atul Kumar and the project's website can be found below . The purpose of this project is for personal learning.
 
 Website : https://atul-bnb-bee.vercel.app/ [Vercel is causing some issues from july 2]
+
 **Upgrading to aws in progress ...**
 
 AirBnBee is an innovative and buzzing project that aims to provide a unique and delightful accommodation experience for travelers. Inspired by the vibrant world of bees, AirBnBee offers a platform where hosts can showcase their properties, and guests can find their perfect hive away from home.
